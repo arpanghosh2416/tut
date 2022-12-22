@@ -4,3 +4,4 @@ Fruit List:
 3. Walnut
 4. Orange
 5.WaterMelon
+6.Banana
